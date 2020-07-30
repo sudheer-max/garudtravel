@@ -2,10 +2,10 @@
   "name": "garud_sql3",
   "version": "1.0.0",
   "description": "garud travels website",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node app",
-    "dev": "nodemon app"
+    "start": "node index",
+    "dev": "nodemon index"
   },
   "author": "sudheer",
   "license": "MIT",
